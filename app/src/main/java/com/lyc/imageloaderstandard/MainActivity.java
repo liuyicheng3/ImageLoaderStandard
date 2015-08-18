@@ -1,4 +1,4 @@
-package imageloader.lyc.com.imageloaderstandard;
+package com.lyc.imageloaderstandard;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;

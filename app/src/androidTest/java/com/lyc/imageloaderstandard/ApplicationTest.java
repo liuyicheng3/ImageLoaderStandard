@@ -1,4 +1,4 @@
-package imageloader.lyc.com.imageloaderstandard;
+package com.lyc.imageloaderstandard;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
