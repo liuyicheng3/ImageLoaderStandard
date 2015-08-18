@@ -1,9 +1,11 @@
-package com.lyc.imageloaderstandard;
+package com.lyc;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.lyc.imageloaderstandard.R;
 
 
 public class MainActivity extends ActionBarActivity {
